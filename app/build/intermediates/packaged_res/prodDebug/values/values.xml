@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_2b">#25282B</color>
+    <color name="blue">#4288F4</color>
+    <color name="colorAccent">@color/white</color>
+    <color name="colorPrimary">#FAF9FA</color>
+    <color name="colorPrimaryDark">#E2E2E2</color>
+    <color name="grey_61">#5e5f61</color>
+    <color name="grey_cd">#E8E8E8</color>
+    <color name="toolbar_color">@color/colorPrimaryDark</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name" translatable="false">"Dog Generator"</string>
+    <string name="clear_dogs">Clear Dogs!</string>
+    <string name="generate">Generate!</string>
+    <string name="generate_dog">Generate Dogs!</string>
+    <string name="random_dog_generator">Random Dog Generator!</string>
+    <string name="recently_generated">My Recently Generated Dog!</string>
+    <style name="Theme.ExamWarriors" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/toolbar_color</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Theme.ExamWarriors.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.ExamWarriors.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:actionBarSize">@dimen/app_bar_height</item>
+    </style>
+</resources>

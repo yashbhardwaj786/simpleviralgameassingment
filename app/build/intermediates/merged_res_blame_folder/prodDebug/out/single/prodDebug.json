@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/layout_activity_main.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/drawable_ic_back_arrow_black.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/drawable/ic_back_arrow_black.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/drawable_blue_bg_button.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/drawable/blue_bg_button.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/anim_slide_in.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/anim/slide_in.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/xml_backup_rules.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/drawable_ic_image_placeholder_50px.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/drawable/ic_image_placeholder_50px.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/layout_dialog_custum_progress.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/layout/dialog_custum_progress.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/layout_layout_image_view.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/layout/layout_image_view.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/drawable_ic_image_placeholder_wrapper.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/drawable/ic_image_placeholder_wrapper.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/layout_app_bar_home.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/layout/app_bar_home.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/layout_activity_view_generated_image.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/layout/activity_view_generated_image.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/layout_activity_generate_dog_image.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/layout/activity_generate_dog_image.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/drawable_ic_chevron_left.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/drawable/ic_chevron_left.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/anim_slide_out.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/anim/slide_out.xml"
+    },
+    {
+        "merged": "com.simpleviralgamesassingment.app-merged_res-41:/xml_network_security_config.xml.flat",
+        "source": "com.simpleviralgamesassingment.app-main-43:/xml/network_security_config.xml"
+    }
+]

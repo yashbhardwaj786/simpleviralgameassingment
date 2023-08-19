@@ -1,0 +1,7 @@
+<resources>
+    <string name="random_dog_generator">Random Dog Generator!</string>
+    <string name="clear_dogs">Clear Dogs!</string>
+    <string name="generate">Generate!</string>
+    <string name="generate_dog">Generate Dogs!</string>
+    <string name="recently_generated">My Recently Generated Dog!</string>
+</resources>

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.simpleviralgamesassingment.app-mergeProdDebugResources-39:/values-xxxhdpi-v4/values-xxxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/yashbhardwaj/Documents/simpleviralgameassingment/app/src/main/res/values-xxxhdpi/dimens.xml",
+                    "from": {
+                        "startLines": "6,13,7,9,10,11,8,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "143,407,189,273,316,359,232,453,499,545,591,637,683",
+                        "endColumns": "45,45,42,42,42,42,40,45,45,45,45,45,45",
+                        "endOffsets": "184,448,227,311,354,397,268,494,540,586,632,678,724"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,147,190,233,276,319,360,406,452,498,544,590",
+                        "endColumns": "45,45,42,42,42,42,40,45,45,45,45,45,45",
+                        "endOffsets": "96,142,185,228,271,314,355,401,447,493,539,585,631"
+                    }
+                }
+            ]
+        }
+    ]
+}
