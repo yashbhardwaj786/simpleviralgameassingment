@@ -14,6 +14,7 @@ import com.simpleviralgamesassingment.ui.viewmodel.GeneratedDogImageViewModel
 import com.simpleviralgamesassingment.ui.viewmodel.GeneratedDogImageViewModel.Companion.DOG_IMAGES_DATA
 import com.simpleviralgamesassingment.ui.viewmodel.GeneratedDogImageViewModel.Companion.GENERATE_DOG_IMAGES_CLICK
 import com.simpleviralgamesassingment.ui.viewmodelfactory.GenerateDogImageModelFactory
+import com.simpleviralgamesassingment.utils.Constant.Companion.ON_FAILURE
 import com.simpleviralgamesassingment.utils.showToast
 import com.simpleviralgamesassingment.utils.updateList
 import org.kodein.di.android.kodein
@@ -48,10 +49,15 @@ class GenerateDogImageActivity : BaseActivity() {
                 generatedDogImageViewModel.generateImage(this)
             }
 
+            ON_FAILURE -> {
+                val errorMessage  = data.arguments[0] as String
+                showToast(this, errorMessage)
+            }
+
             DOG_IMAGES_DATA -> {
                 val dogBreed = data.arguments[0] as DogBreedResult
                 dogBreed.let {
-                    if (it.status.toLowerCase(Locale.ENGLISH) == "success") {
+                    if (it.status.lowercase(Locale.ENGLISH) == "success") {
                         updateList(it.message, preferenceProvider)
                         binding.data = it
                     } else {
