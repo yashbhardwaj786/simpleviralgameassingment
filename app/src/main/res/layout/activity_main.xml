@@ -43,7 +43,7 @@
                     android:background="@drawable/blue_bg_button"
                     android:onClick="@{() -> viewModel.onGenerateDogButtonClick()}"
                     android:paddingHorizontal="@dimen/margin_20dp"
-                    android:paddingVertical="@dimen/margin_10dp"
+                    android:paddingVertical="@dimen/margin_8dp"
                     android:text="@string/generate_dog"
                     android:textColor="@color/white"
                     android:textSize="@dimen/text_size_16sp" />
@@ -51,11 +51,11 @@
                 <androidx.appcompat.widget.AppCompatTextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="10dp"
+                    android:layout_marginTop="@dimen/margin_10dp"
                     android:background="@drawable/blue_bg_button"
                     android:onClick="@{() -> viewModel.onMyGenerateDogsButtonClick()}"
                     android:paddingHorizontal="@dimen/margin_20dp"
-                    android:paddingVertical="@dimen/margin_10dp"
+                    android:paddingVertical="@dimen/margin_8dp"
                     android:text="@string/recently_generated"
                     android:textColor="@color/white"
                     android:textSize="@dimen/text_size_16sp" />

@@ -67,7 +67,7 @@
                     android:background="@drawable/blue_bg_button"
                     android:onClick="@{()-> viewModel.clearDogClick()}"
                     android:paddingHorizontal="@dimen/margin_20dp"
-                    android:paddingVertical="@dimen/margin_10dp"
+                    android:paddingVertical="@dimen/margin_8dp"
                     android:text="@string/clear_dogs"
                     android:textColor="@color/white"
                     android:textSize="@dimen/text_size_16sp" />
